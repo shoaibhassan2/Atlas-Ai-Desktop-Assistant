@@ -1,7 +1,10 @@
 # **Atlas AI – Your Intelligent Desktop Assistant**  
 
 **Atlas AI** is a powerful and intelligent desktop assistant designed to streamline your daily tasks and bring automation to your fingertips. With advanced capabilities, Atlas AI acts as your personal home assistant, adapting to your preferences and making your workflow seamless.  
+
+##  **UI**  
 ![Atlas AI Screenshot](Capture.PNG)
+##  **UI**  
 ![Atlas AI Screenshot](Capture1.PNG)
 
 ## 🚀 **Features & Functions**  
